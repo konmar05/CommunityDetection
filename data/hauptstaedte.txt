@@ -1,0 +1,167 @@
+41.3275,19.818333#Tirana#Albanien#Griechenland,Nordmazedonien,Montenegro
+42.558333,1.555278#Andorra la Vella#Andorra#Frankreich,Spanien
+48.208333,16.373056#Wien#Österreich#Deutschland,Tschechien,Slowakei,Ungarn,Slowenien,Italien,Schweiz,Liechtenstein
+53.9,27.55#Minsk#Belarus#Russland,Litauen,Lettland,Polen,Ukraine
+50.843333,4.363056#Brüssel#Belgien#Niederlande,Deutschland,Luxemburg,Frankreich
+43.859722,18.431111#Sarajevo#Bosnien und Herzegowina#Kroatien,Serbien,Montenegro
+42.697222,23.323333#Sofia#Bulgarien#Rumänien,Serbien,Nordmazedonien,Griechenland,Türkei
+45.810278,15.978056#Zagreb#Kroatien#Slowenien,Ungarn,Serbien,Bosnien und Herzegowina,Montenegro
+50.088611,14.421389#Prag#Tschechien#Deutschland,Polen,Slowakei,Österreich
+46.051389,14.505556#Ljubljana#Slowenien#Italien,Österreich,Ungarn,Kroatien
+55.675706,12.578745#Kopenhagen#Dänemark#Deutschland
+59.436944,24.745#Tallinn#Estland#Russland,Lettland
+60.166667,24.933333#Helsinki#Finnland#Russland,Schweden
+48.856667,2.351667#Paris#Frankreich#Belgien,Luxemburg,Deutschland,Schweiz,Italien,Spanien,Andorra
+41.716667,44.791667#Tiflis#Georgien#Russland,Aserbaidschan,Armenien,Türkei
+52.518611,13.408333#Berlin#Deutschland#Dänemark,Polen,Tschechien,Österreich,Schweiz,Frankreich,Niederlande,Belgien,Luxemburg
+37.977778,23.727778#Athen#Griechenland#Albanien,Nordmazedonien,Bulgarien,Türkei
+47.5,19.05#Budapest#Ungarn#Slowakei,Ukraine,Rumänien,Serbien,Kroatien,Österreich,Slowenien
+64.15,-21.933333#Reykjavik#Island#Grönland
+46.94798,7.44743#Bern#Schweiz#Deutschland,Italien,Frankreich,Liechtenstein,Österreich
+39.916667,32.85#Ankara#Türkei#Syrien,Irak,Iran,Georgien,Bulgarien,Griechenland,Armenien
+53.3425,-6.265833#Dublin#Irland#Nordirland
+41.883333,12.483333#Rom#Italien#Frankreich,Schweiz,Österreich,Slowenien
+56.95,24.1#Riga#Lettland#Estland,Russland,Belarus,Litauen
+47.139651,9.521804#Vaduz#Liechtenstein#Schweiz,Österreich
+54.685125,25.287894#Vilnius#Litauen#Lettland,Belarus,Polen,Russland
+49.793611,6.106389#Luxemburg#Luxemburg#Belgien,Deutschland,Frankreich
+41.996944,21.433056#Skopje#Nordmazedonien#Serbien,Albanien,Griechenland,Bulgarien
+47.013889,28.85#Chisinau#Moldawien#Ukraine,Rumänien
+43.733333,7.416667#Monaco#Monaco#Frankreich
+44.433333,26.1#Bukarest#Rumänien#Bulgarien,Serbien,Ungarn,Ukraine,Moldawien
+50.45,30.5#Kiew#Ukraine#Moldawien#Russland,Belarus,Polen,Slowakei,Ungarn,Rumänien,Moldawien
+42.439722,19.266111#Podgorica#Montenegro#Kroatien,Bosnien und Herzegowina,Serbien,Albanien
+44.820556,20.462222#Belgrad#Serbien#Ungarn,Rumänien,Bulgarien,Nordmazedonien,Montenegro,Bosnien und Herzegowina,Kroatien
+52.370197,4.890444#Amsterdam#Niederlande#Deutschland,Belgien
+59.91,10.75#Oslo#Norwegen#Schweden,Finnland,Russland
+59.325,18.05#Stockholm#Schweden#Norwegen,Finnland
+52.216667,21.033333#Warschau#Polen#Deutschland,Tschechien,Slowakei,Ukraine,Belarus,Litauen,Russland
+38.716667,-9.166667#Lissabon#Portugal#Spanien
+40.4125,-3.703889#Madrid#Spanien#Portugal,Andorra,Frankreich
+64.18,-51.72#Nuuk#Grönland#Kanada,Island
+45.411556,-75.698444#Ottawa#Kanada#Vereinigte Staaten
+19.419444,-99.145556#Mexiko-Stadt#Mexiko#Vereinigte Staaten,Belize,Guatemala
+38.895,-77.036667#Washington,D.C.#Vereinigte Staaten#Kanada,Mexiko
+14.631667,-90.523611#Guatemala-Stadt#Guatemala#Mexiko,Belize,Honduras,El Salvador
+13.683333,-89.183333#San Salvador#El Salvador#Guatemala,Honduras
+14.094167,-87.206667#Tegucigalpa#Honduras#Guatemala,El Salvador,Nicaragua
+12.146389,-86.270556#Managua#Nicaragua#Honduras,Costa Rica
+9.924722,-84.078056#San José#Costa Rica#Nicaragua,Panama
+8.97091,-79.534758#Panama-Stadt#Panama#Kolumbien,Costa Rica
+23.1225,-82.386389#Havanna#Kuba#Haiti,Jamaika,Vereinigte Staaten,Mexiko
+18.5425,-72.338611#Port-au-Prince#Haiti#Dominikanische Republik
+18.476389,-69.893333#Santo Domingo#Dominikanische Republik#Haiti
+18.01283,-76.8007#Kingston#Jamaika#Kuba,Haiti
+25.066667,-77.333333#Nassau#Bahamas#Kuba,Vereinigte Staaten
+17.253611,-88.770833#Belmopan#Belize#Guatemala,Mexiko
+-34.599722,-58.381944#Buenos Aires#Argentinien#Chile,Bolivien,Paraguay,Brasilien,Uruguay
+-16.494167,-68.1475#La Paz#Bolivien#Peru,Brasilien,Paraguay,Argentinien,Chile
+-15.8,-47.85#Brasília#Brasilien#Venezuela,Kolumbien,Peru,Bolivien,Paraguay,Argentinien,Uruguay
+-33.45,-70.666667#Santiago#Chile#Peru,Bolivien,Argentinien
+4.598889,-74.080833#Bogotá#Kolumbien#Panama,Venezuela,Brasilien,Peru,Ecuador
+-0.218611,-78.509722#Quito#Ecuador#Kolumbien,Peru
+6.783333,-58.166667#Georgetown#Guyana#Suriname,Brasilien,Venezuela
+5.823611,-55.169722#Paramaribo#Suriname#Brasilien
+-25.294444,-57.644444#Asunción#Paraguay#Brasilien,Argentinien,Bolivien
+-12.035,-77.018611#Lima#Peru#Ecuador,Kolumbien,Brasilien,Bolivien,Chile
+-34.866667,-56.166667#Montevideo#Uruguay#Brasilien,Argentinien
+10.5047,-66.9145#Caracas#Venezuela#Kolumbien,Brasilien,Guyana
+36.766667,3.05#Algier#Algerien#Tunesien,Libyen,Niger,Mali,Mauretanien,Marokko
+34.025278,-6.836111#Rabat#Marokko#Algerien,Mauretanien
+36.800833,10.18#Tunis#Tunesien#Algerien,Libyen
+21.033333,105.85#Hanoi#Vietnam#Kambodscha,Laos,China
+12.733333,105.666667#Phnom Penh#Kambodscha#Thailand,Vietnam,Laos
+48.144722,17.112778#Bratislava#Slowakei#Österreich,Tschechien,Polen,Ukraine,Ungarn
+-8.833333,13.25#Luanda#Angola#Demokratische Republik Kongo,Sambia,Namibia
+6.478333,2.620833#Porto-Novo#Benin#Niger,Nigeria,Togo,Burkina Faso
+13.508611,2.111111#Niamey#Niger#Benin,Burkina Faso,Mali,Algerien,Libyen,Tschad,Nigeria
+9.058333,7.491667#Abuja#Nigeria#Benin,Niger,Tschad,Kamerun
+6.131944,1.222778#Lome#Togo#Ghana,Burkina Faso,Benin
+-24.658056,25.912222#Gaborone#Botsuana#Namibia,Südafrika,Simbabwe
+12.37,-1.526#Ouagadougou#Burkina Faso#Mali,Niger,Benin,Togo,Ghana,Elfenbeinküste
+-3.3825,29.361111#Bujumbura#Burundi#Tansania,Ruanda,Demokratische Republik Kongo
+-6.173333,35.740278#Dodoma#Tansania#Kenia,Uganda,Ruanda,Burundi,Demokratische Republik Kongo,Sambia,Mosambik,Malawi
+4.367222,18.5775#Bangui#Zentralafrikanische Republik#Kamerun,Tschad,Sudan,Südsudan,Demokratische Republik Kongo,Kongo
+3.8615,11.52028#Jaude#Kamerun#Nigeria,Tschad,Zentralafrikanische Republik,Kongo,Gabun,Äquatorialguinea
+12.116389,15.072222#NDjamena#Tschad#Kamerun,Nigeria,Niger,Libyen,Sudan,Zentralafrikanische Republik
+15.58,32.52#Khartum#Sudan#Ägypten,Eritrea,Äthiopien,Südsudan,Zentralafrikanische Republik,Tschad
+-4.783333,11.833333#Pointe-Noire#Kongo#Gabun,Kamerun,Zentralafrikanische Republik,Demokratische Republik Kongo
+-4.331667,15.313889#Kinshasa#Demokratische Republik Kongo#Kongo,Zentralafrikanische Republik,Südsudan,Uganda,Ruanda,Burundi,Tansania,Sambia,Angola
+6.806667,-5.272778#Yamoussoukro#Elfenbeinküste#Liberia,Guinea,Mali,Burkina Faso,Ghana
+11.8,42.433333#Djibouti#Dschibuti#Eritrea,Äthiopien,Somalia
+30.056111,31.239444#Kairo#Ägypten#Libyen,Sudan,Israel
+3.753056,8.778889#Malabo#Äquatorialguinea#Kamerun,Gabun
+15.333333,38.933333#Asmara#Eritrea#Sudan,Äthiopien,Dschibuti
+9.016667,38.758333#Addis Abeba#Äthiopien#Eritrea,Dschibuti,Somalia,Kenia,Sudan
+0.394444,9.454167#Libreville#Gabun#Äquatorialguinea,Kamerun,Kongo
+13.453056,-16.5775#Banjul#Gambia#Senegal
+14.681111,-17.441667#Dakar#Senegal#Guinea-Bissau,Mali,Guinea,Gambia,Mauretanien
+5.55,-0.216667#Accra#Ghana#Elfenbeinküste,Togo,Burkina Faso
+9.538,-13.6771#Conakry#Guinea#Senegal,Mali,Elfenbeinküste,Liberia,Sierra Leone,Guinea-Bissau
+11.859167,-15.595556#Bissau#Guinea-Bissau#Senegal,Guinea
+-1.283333,36.816667#Nairobi#Kenia#Äthiopien,Somalia,Tansania,Uganda
+-29.31,27.48#Maseru#Lesotho#Südafrika
+8.483333,-13.233056#Freetown#Sierra Leone#Guinea,Liberia
+6.310556,-10.804722#Monrovia#Liberia#Sierra Leone,Guinea,Elfenbeinküste
+32.883333,13.166667#Tripolis#Libyen#Tunesien,Algerien,Niger,Tschad,Sudan,Ägypten
+-18.938611,47.521389#Antananarivo#Madagaskar#Mosambik
+-13.989722,33.788611#Lilongwe#Malawi#Tansania,Mosambik,Sambia
+-25.965556,32.588611#Maputo#Mosambik#Malawi,Tansania,Simbabwe,Südafrika,Madagaskar
+-25.725556,28.243889#Pretoria#Südafrika#Lesotho,Botsuana,Simbabwe,Mosambik,Namibia
+12.645833,-7.992222#Bamako#Mali#Mauretanien,Algerien,Niger,Burkina Faso,Elfenbeinküste,Guinea
+18.078333,-15.974444#Nouakchott#Mauretanien#Marokko,Algerien,Mali,Senegal
+34.533333,69.166667#Kabul#Afghanistan#Iran,Turkmenistan,Usbekistan,Tadschikistan,China,Pakistan
+40.183333,44.516667#Yerevan#Armenien#Georgien,Iran,Aserbaidschan,Türkei
+40.395278,49.882222#Baku#Aserbaidschan#Armenien,Iran,Russland,Türkei
+26.236111,50.583056#Manama#Bahrain#Katar,Saudi-Arabien
+23.740278,90.394722#Dhaka#Bangladesch#Indien,Myanmar
+27.483333,89.633333#Thimphu#Bhutan#China,Indien
+-22.57,17.083611#Windhuk#Namibia#Angola,Südafrika,Botsuana,Sambia
+4.893228,114.940665#Bandar Seri Begawan#Brunei#Malaysia
+39.933333,116.383333#Peking#China#Russland,Nordkorea,Vietnam,Laos,Myanmar,Bhutan,Nepal,Indien,Philippinen
+28.62,77.217222#Neu-Delhi#Indien#Pakistan,China,Nepal,Bhutan,Bangladesch,Myanmar
+-6.216667, 106.816667#Jakarta#Indonesien#Papua-Neuguinea,Malaysia,Singapur,Philippinen
+-9.466667,147.166667#Port Moresby#Papua-Neuguinea#Indonesien
+24.65,46.716667#Riad#Saudi-Arabien#Jemen,Oman,Vereinigte Arabische Emirate,Katar,Bahrain,Kuwait,Jordanien,Irak
+35.700278,51.416389#Teheran#Iran#Irak,Turkmenistan,Afghanistan,Pakistan,Türkei
+33.333333, 44.383333#Bagdad#Irak#Syrien,Jordanien,Saudi-Arabien,Kuwait,Iran,Türkei
+31.779167,35.223611#Jerusalem#Israel#Ägypten,Jordanien,Libanon,Syrien
+35.664278,139.527139#Tokio#Japan#Nordkorea,Südkorea,Russland
+39.033333,125.733333#Pjöngjang#Nordkorea#China,Südkorea
+35.907757,127.766922#Seuol#Südkorea#Nordkorea,Japan
+31.95,35.933333#Amman#Jordanien#Syrien,Irak,Saudi-Arabien,Israel
+33.509722,36.309167#Damascus#Syrien#Türkei,Irak,Jordanien,Libanon,Israel
+51.1333, 71.4333#Nur-Sultan#Kasachstan#Russland,China,Kirgisistan,Usbekistan,Turkmenistan
+29.389653, 48.003214#Kuwait-Stadt#Kuwait#Irak,Saudi-Arabien
+42.866667,74.566667#Bischkek#Kirgisistan#Kasachstan,Usbekistan,Tadschikistan,China
+17.966667,102.6#Vientiane#Laos#China,Vietnam,Kambodscha,Thailand
+33.886944,35.513333#Beirut#Libanon#Syrien,Israel
+3.1425,101.688333#Kuala Lumpur#Malaysia#Thailand,Singapur,Indonesien,Brunei
+47.916667,106.916667#Ulan Bator#Mongolei#Russland,China
+1.350189,103.994433#Singapur#Singapur#Malaysia
+19.7475, 96.115#Naypyidaw#Myanmar#Bangladesch,Indien,China,Laos,Thailand
+27.7, 85.333333#Kathmandu#Nepal#China,Indien
+23.616667,58.583333#Maskat#Oman#Vereinigte Arabische Emirate,Saudi-Arabien
+33.716667,73.066667#Islamabad#Pakistan#Indien,Afghanistan,Iran
+14.588889,120.974722#Manila#Philippinen#Taiwan,China,Indonesien
+25.05,121.26#Taipeh#Taiwan#Philippinen,China
+25.2819,51.5175#Doha#Katar#Saudi-Arabien,Vereinigte Arabische Emirate,Bahrain
+55.791389,37.516111#Moskau#Russland#Norwegen,Finnland,Estland,Lettland,Litauen,Polen,Belarus,Ukraine,Georgien,Aserbaidschan,Kasachstan,Mongolei,China,Nordkorea
+-36.840556, 174.74#Wellington#Neuseeland#Australien
+-35.401389, 148.981667#Canberra#Australien#Papua-Neuguinea,Indonesien,Neuseeland
+51.514944, -0.140806#London#England#Schottland,Wales,Frankreich
+55.950278,-3.190556#Edinburgh#Schottland#England,Nordirland
+51.477875, -3.176464#Cardiff#Wales#England
+54.58425,-5.93475#Belfast#Nordirland#Irland,Schottland
+13.75,100.516667#Bangkok#Thailand#Laos,Kambodscha,Myanmar,Malaysia
+-15.416667,28.283333#Lusaka#Sambia#Demokratische Republik Kongo,Tansania,Mosambik,Simbabwe,Namibia,Angola,Malawi,Botsuana
+-17.825,31.05#Harare#Simbabwe#Sambia,Mosambik,Botsuana,Südafrika
+-1.95,30.066667#Kigali#Ruanda#Demokratische Republik Kongo,Uganda,Burundi,Tansania
+0.3,32.633333#Kampal#Uganda#Demokratische Republik Kongo,Südsudan,Kenia,Tansania,Ruanda
+4.85,31.6#Juba#Südsudan#Zentralafrikanische Republik,Sudan,Äthiopien,Kenia,Uganda,Demokratische Republik Kongo
+2.033333,45.333333#Mogadischu#Somalia#Äthiopien,Kenia,Dschibuti
+37.95,58.383333#Asgabat#Turkmenistan#Usbekistan,Afghanistan,Iran,Kasachstan
+41.333333,69.3#Taschkent#Usbekistan#Kasachstan,Turkmenistan,Kirgisistan,Tadschikistan,Afghanistan
+38.56, 68.773889#Duschanbe#Tadschikistan#Usbekistan,Afghanistan,Kirgisistan,China
+15.348333,44.206389#Snaa#Jemen#Oman,Saudi-Arabien
+24.450278,54.39#Abu Dhabi#Vereinigte Arabische Emirate#Saudi-Arabien,Oman
