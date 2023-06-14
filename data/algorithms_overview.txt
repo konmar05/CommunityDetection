@@ -1,0 +1,87 @@
+agdl	Directed	Weighted				Crisp				
+angel							Overlaps			
+aslpaw							Overlaps			
+async_fluid						Crisp				
+belief						Crisp				
+big_clam						Crisp	Overlaps	Nested		
+bimlpa			Bipartite			Crisp				
+chinesewhispers		Weighted				Crisp				
+condor			Bipartite			Crisp				
+conga							Overlaps			
+congo							Overlaps			
+core_expansion							Overlaps			
+cpm		Weighted				Crisp	Overlaps			
+CPM_bipartite			Bipartite			Crisp				
+coach							Overlaps			
+danmf		Weighted					Overlaps			
+dcs		Weighted					Overlaps			
+demon							Overlaps			
+der		Weighted				Crisp				
+dpclus		Weighted					Overlaps			
+edmot		Weighted	Bipartite			Crisp	Overlaps			
+ebgc							Overlaps			
+ego_networks							Overlaps			
+egonet_splitter							Overlaps			
+eigenvector						Crisp				
+em	Directed					Crisp	Overlaps		Fuzzy	
+endntm							Overlaps			
+eva				Feature-Rich		Crisp				
+frc_fgsn			Bipartite				Overlaps		Fuzzy	
+ga						Crisp				
+gdmp2	Directed		Bipartite			Crisp				
+gemsec	Directed					Crisp				
+girvan_newman						Crisp				Hierarchical
+graph_entropy		Weighted					Overlaps			
+greedy_modularity						Crisp				
+head_tail						Crisp				
+hierarchical_link_communities							Overlaps			
+ilouvain				Feature-Rich		Crisp				
+infomap	Directed	Weighted				Crisp				
+infomap_bipartite	Directed	Weighted	Bipartite			Crisp				
+ipca		Weighted				Crisp	Overlaps			
+kclique							Overlaps			
+kcut						Crisp				
+label_propagation						Crisp				
+lais2							Overlaps			
+leiden						Crisp				
+lemon							Overlaps			
+lfm							Overlaps			Hierarchical
+louvain						Crisp				
+lpam							Overlaps			
+lpanni							Overlaps			
+lswl		Weighted				Crisp	Overlaps			
+lswl_plus		Weighted				Crisp	Overlaps			
+markov_clustering						Crisp				
+mcode		Weighted				Crisp				
+mnmf							Overlaps			
+mod_m						Crisp				
+mod_r						Crisp				
+node_perception							Overlaps			
+multicom							Overlaps			
+nnsed							Overlaps			
+overlapping_seed_set_expansion							Overlaps			
+paris		Weighted				Crisp				Hierarchical
+percomvc							Overlaps			
+principled_clustering							Overlaps		Fuzzy	
+pycombo		Weighted				Crisp				
+rb_pots	Directed	Weighted				Crisp				
+rber_pots		Weighted				Crisp				
+ricci_community						Crisp				
+r_spectral_clustering						Crisp				
+sbm_dl						Crisp				
+sbm_dl_nested						Crisp				
+scan						Crisp				
+scd						Crisp				
+spectral			Bipartite			Crisp				
+significance_communities						Crisp				
+sibilarity_antichain	Directed					Crisp				
+slpa							Overlaps			
+spinglass						Crisp				
+surprise_communities	Directed	Weighted				Crisp				
+symmnmf							Overlaps			
+threshold_clustering	Directed	Weighted				Crisp				
+tiles					Temporal		Overlaps			
+umstmo							Overlaps			
+walkscan							Overlaps			
+walktrap						Crisp				
+wCommunity		Weighted					Overlaps			
